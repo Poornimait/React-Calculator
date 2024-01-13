@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Poornimait/React-Calculator.git/static/css/main.9eddf78d.css",
+    "main.js": "/Poornimait/React-Calculator.git/static/js/main.f8dbe04c.js",
+    "static/js/787.efc3d892.chunk.js": "/Poornimait/React-Calculator.git/static/js/787.efc3d892.chunk.js",
+    "index.html": "/Poornimait/React-Calculator.git/index.html",
+    "main.9eddf78d.css.map": "/Poornimait/React-Calculator.git/static/css/main.9eddf78d.css.map",
+    "main.f8dbe04c.js.map": "/Poornimait/React-Calculator.git/static/js/main.f8dbe04c.js.map",
+    "787.efc3d892.chunk.js.map": "/Poornimait/React-Calculator.git/static/js/787.efc3d892.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9eddf78d.css",
+    "static/js/main.f8dbe04c.js"
+  ]
+}
